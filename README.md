@@ -5,15 +5,15 @@ Goal for the Lab: Experiment with one or more Unit testing frameworks in the lan
 
 Suggested method: 
 
-    Set up a project in your desired language and development environment and include a Unit test framework.
-    Write a calculator class in either Java, Python or C++ (note that you are not restricted to these languages).
-    Include standard arithmetic, trig functions, log, square root and any others you want to. The actual functionality is not that important, ideally include functions that can be tested in different ways, e.g. input limitations, potential divide by zero errors, potential infinite answer, potential results out of data type range etc.
-    Write a set of Unit tests for these functions.
-    Set it up so that you can run all the Unit tests in sequence.
-    Experiment with ensuring some tests fail to check the output is clear, and use different types of assertions to identify different types of potential errors.
-    Play around with different types of assertions and assumptions (if included in the framework you're using).
-    Try writing a different type of class and test to include different types of data (e.g. check the value of fields in a class are defined or not null).
-    If time allows, try repeating this exercise in another language, e.g., if you've completed this using JUnit, try PyTest.
+1. Set up a project in your desired language and development environment and include a Unit test framework.
+2. Write a calculator class in either Java, Python or C++ (note that you are not restricted to these languages).
+3. Include standard arithmetic, trig functions, log, square root and any others you want to. The actual functionality is not that important, ideally include functions that can be tested in different      ways, e.g. input limitations, potential divide by zero errors, potential infinite answer, potential results out of data type range etc.
+4. Write a set of Unit tests for these functions.
+5. Set it up so that you can run all the Unit tests in sequence.
+6. Experiment with ensuring some tests fail to check the output is clear, and use different types of assertions to identify different types of potential errors.
+7. Play around with different types of assertions and assumptions (if included in the framework you're using).
+8. Try writing a different type of class and test to include different types of data (e.g. check the value of fields in a class are defined or not null).
+9. If time allows, try repeating this exercise in another language, e.g., if you've completed this using JUnit, try PyTest.
 
 Here's some helpful links for using python for pytest or unittest.
 
